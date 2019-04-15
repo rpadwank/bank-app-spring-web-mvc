@@ -1,0 +1,7 @@
+*.jar
+build
+.settings
+.classpath
+.project
+.springBeans
+MANIFEST.MF
